@@ -190,3 +190,4 @@ Temporary Items
 # Crashlytics plugin (for Android Studio and IntelliJ)
 
 .idea
+.gitignore
